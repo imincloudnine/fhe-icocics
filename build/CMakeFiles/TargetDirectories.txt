@@ -1,3 +1,0 @@
-/home/kai/projects/fhe-icocics/build/CMakeFiles/fhe_masked_membership.dir
-/home/kai/projects/fhe-icocics/build/CMakeFiles/edit_cache.dir
-/home/kai/projects/fhe-icocics/build/CMakeFiles/rebuild_cache.dir
